@@ -1,3 +1,5 @@
 I’ve just created this file.
 
-Here is the second line.
+I’ve deleted this line.
+
+And written a third line.
